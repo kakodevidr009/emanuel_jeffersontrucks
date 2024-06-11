@@ -1,0 +1,24 @@
+body {background-color: red;}
+h1 {color: black;}
+
+.p3 {text-align: center;
+font-size: 150%;
+color: yellow;}
+
+.p1 {border-width: 5px;
+border-color: green;
+border-style: double;
+margin-left: 20%;
+margin-right: 20%;
+padding-left: 17%;
+padding-top: 10%;}
+
+.p1 {background-color: blueviolet;}
+
+.p2 { border-width: 8px;
+border-color: aquamarine;
+border-style: ridge;
+margin-left: 10%;
+margin-right: 40%;
+padding-left: 5%;
+padding-top: 30%;}
